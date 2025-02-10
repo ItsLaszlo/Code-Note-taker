@@ -1,2 +1,5 @@
 # Node modules
 node_modules/
+# Ignore Webpack build files
+dist/
+.DS_Store
